@@ -9,11 +9,11 @@ redirect_from:
 
 Manipulation of micro- and nanoscale structures can give rise to many new material systems photonic crystals, metamaterials, and metasurfaces, and give rise to many novel physical phenomena such as negative refraction and cloaks of invisibility, which cannot be realized with any natural material. Our research interest lies in exploring the exciting new physical phenomena arising from such novel materials with applications in many fields such as optical computing, infrared camouflage, computational imaging, and optical sensing. Our work is both theoretical and experimental.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. 
-
 Inverse Design and Photonic Neural Networks
 ======
 Photonic neural networks with large-scale training parameters are realized by inverse design algorithms. Different photonic neural network architectures such as convolutional neural networks, recurrent neural networks, and long and short-term memory networks were realized by encoding optical signals in both the temporal and spatial domains.
+
+(/images/ONN.png)
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/ONN.png)
