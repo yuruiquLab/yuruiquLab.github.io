@@ -12,7 +12,7 @@ Manipulation of micro- and nanoscale structures can give rise to many new materi
 Inverse Design and Photonic Neural Networks
 ======
 Photonic neural networks with large-scale training parameters are realized by inverse design algorithms. Different photonic neural network architectures such as convolutional neural networks (CNN), recurrent neural networks (RNN), and long and short-term memory (LSTM) networks were realized by encoding optical signals in both the temporal and spatial domains.
-![Editing a markdown file for a talk](/images/ONN.png)
+![Editing a markdown file for a talk](/images/OCNN-frontpage.png)
 
 Site-wide configuration
 ------
