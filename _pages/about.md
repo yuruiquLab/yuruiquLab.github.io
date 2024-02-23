@@ -18,7 +18,7 @@ Photonic neural networks with large-scale training parameters are realized by in
 
 **Smart optoelectronic Devices**
 
-Advanced intelligent algorithms can reduce the size and improve the performance of optoelectronic functional devices, breaking through the limitations of traditional devices in space and time. For example, [we have developed an ultra-fast millisecond mid-infrared material identification spectrometer based on compressed sensing algorithms, where traditional Fourier transform spectrometers require tens of seconds to minutes of measurement time.](https://arxiv.org/abs/2212.13122)
+Advanced intelligent algorithms can reduce the size and improve the performance of optoelectronic functional devices, breaking through the limitations of traditional devices in space and time. For example, we have developed [an ultra-fast millisecond mid-infrared material identification spectrometer based on compressed sensing algorithms](https://arxiv.org/abs/2212.13122), where traditional Fourier transform spectrometers require tens of seconds to minutes of measurement time.
 
 **Markdown generator**
 
