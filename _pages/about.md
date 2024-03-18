@@ -11,13 +11,13 @@ Research
 ------
 Manipulation of micro- and nanoscale structures can give rise to many new material systems photonic crystals, metamaterials, and metasurfaces, and give rise to many novel physical phenomena such as negative refraction and cloaks of invisibility, which cannot be realized with any natural material. Our research interest lies in exploring the exciting new physical phenomena arising from such novel materials with applications in many fields such as optical computing, infrared camouflage, computational imaging, and optical sensing. Our work is both theoretical and experimental. Our research is divided into three main parts：
 
-**Photonic Neural Networks**
+**Optical Computing/AI**
 
-Optical computing has advantages and potential over electronic computing due to its massively parallel processing capability and almost no power consumption in some tasks. Our group has been working on developing different photonic neural network architectures, such as [photonic convolutional neural network (CNN)](https://www.sciencedirect.com/science/article/pii/S2095927320302115), [photonic recurrent neural network (RNN) and photonic long short-term memory (LSTM) networks](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c02016), using inverse design algorithms to encode optical signals through the temporal and spatial domains.
+Optical computing has advantages and potential over electronic computing due to its massively parallel processing capability and almost no power consumption in some tasks. Our group has been working on developing different optical neural network architectures, such as [optical convolutional neural network (CNN)](https://www.sciencedirect.com/science/article/pii/S2095927320302115), [optical recurrent neural network (RNN) and optical long short-term memory (LSTM) networks](https://pubs.acs.org/doi/abs/10.1021/acsphotonics.1c02016), using inverse design algorithms to encode optical signals through the temporal and spatial domains.
 ![Editing a markdown file for a talk](/images/Research direction-1.png)
 
 
-**Smart optoelectronic Devices**
+**Smart Optoelectronic Devices**
 
 Advanced intelligent algorithms can help optoelectronic functional devices break through the traditional spatial and temporal limitations, realize miniaturization and intelligence of optoelectronic devices, and improve device resolution and response speed. For example, we have developed [an ultra-fast millisecond mid-infrared material identification spectrometer based on compressed sensing algorithms](https://arxiv.org/abs/2212.13122), where traditional Fourier transform spectrometers require tens of seconds to minutes of measurement time.
 ![Editing a markdown file for a talk](/images/Research direction-2.png)
