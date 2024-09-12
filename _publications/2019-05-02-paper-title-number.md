@@ -2,7 +2,7 @@
 title: "Migrating Knowledge between Physical Scenarios Based on Artificial Neural Networks"
 collection: publications
 permalink: /publication/2019-05-02-paper-title-number
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'We propose to use transfer learning methods to migrate knowledge between different physical scenarios and significantly improve the prediction accuracy of artificial neural networks trained on a small data set.'
 date: 2019-05-02
 venue: 'ACS Photonics'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsphotonics.8b01526'
