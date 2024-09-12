@@ -1,12 +1,12 @@
 ---
 title: "Paper Title Number 2"
-collection: Selected publications
+collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2016-1-12
+excerpt: 'We propose a narrowband plasmonic absorber with high Q-factor (~100).'
+date: 2016-1-16
 venue: 'Advanced Optical Materials'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.201500651'
+citation: 'Yurui Qu, Qiang Li, Hanmo Gong, Kaikai Du, Songang Bai, Ding Zhao, Hui Ye, Min Qiu, Advanced Optical Materials, 2016, 3(4): 480-486'
 ---
 
 Abstract
