@@ -29,16 +29,22 @@ Work experience
   
 Talks
 ======
-* 2017.06, Title: Ultra-thin dynamic thermal emission devices
-  * 3rd International Workshop on Nano-Micro Thermal Radiation, KAIST, Daejeon, Korea
+* 2023.07, Title: Sparsity for ultrafast material identification (Invited talk)
+  * Opt oElectronics and Communications Conference (OECC) 2023, Shanghai, China
 
-* 2022.03, Title: Resonance for analog recurrent neural network
+* 2023.05, Title: Resonance for analog recurrent neural network (Oral)
+  * Conference on Lasers and Electro-Optics (CLEO) 2023, San Jose,USA
+    
+* 2023.04, Title: Sparsity for ultrafast material identification (Oral)
+  * SPIE Defense + Commercial Sensing 2023, Florida, USA
+
+* 2022.03, Title: Resonance for analog recurrent neural network (Oral)
   * American Physical Society’s (APS) Meeting 2022, Chicago, USA
 
-* 2018.05, Title: Thermal camouflage based on phase change material GST
+* 2018.05, Title: Thermal camouflage based on phase change material GST (Oral)
   * Conference on Lasers and Electro-Optics (CLEO) 2018, San Jose, USA
 
-* 2017.06, Title: Ultra-thin dynamic thermal emission devices
+* 2017.06, Title: Ultra-thin dynamic thermal emission devices (Oral)
   * 3rd International Workshop on Nano-Micro Thermal Radiation, KAIST, Daejeon, Korea
 
 * 2015.10, Title: Spatially and Spectrally Resolved Narrowband Optical Absorber Based on 2D Grating Nanostructures on Metallic Films (Best Poster Award)
