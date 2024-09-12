@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-2.png"
   name             : "Yurui Qu"
   pronouns         : # example: "he/him"  
-  bio              : "Assistant Professor，研究员，博导，ShanghaiTech University, Building 1D-401b,\ School of Information, \ ShanghaiTech University,\ Shanghai, China"
-  location         : "Building 1D-401b,\ School of Information, \ ShanghaiTech University,\ Shanghai, China"
+  bio              : "Assistant Professor，研究员，博导，ShanghaiTech University"
+  location         : "Shanghai, China"
   # employer         : "ShanghaiTech University"
   uri              : # URL
   email            : "quyr@shanghaitech.edu.cn" 
