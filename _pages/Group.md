@@ -11,11 +11,9 @@ redirect_from:
 
 Master Students
 ======
-* Guangyu Bai (2024 Fall - present): B.S. at China university of mining and technology (中国矿业大学).
+* Guangyu Bai   (2024 Fall - present): B.S. at China university of mining and technology (中国矿业大学).
+* Haoran Ge     (2024 Fall - present): B.S. at Zhejiang University (浙江大学).
+* Sen Li        (2024 Fall - present): B.S. at Southwest Jiaotong University (西南交通大学).
+* Guanhong Wang (2024 Fall - present): B.S. at Hefei University of Technology (合肥工业大学).
+* Xing Zhu      (2024 Fall - present): B.S. at Tianjin University (天津大学).
 
-* Scientist, 2022.12 –2023.09
-  * Electrical and Computer Engineering, University of Wisconsin-Madison, USA
-
-* Postdoctoral Fellow, 2019.12 –2022.12
-  * Electrical and Computer Engineering, University of Wisconsin-Madison, USA
-  * Supervisor: Prof. Zongfu Yu
