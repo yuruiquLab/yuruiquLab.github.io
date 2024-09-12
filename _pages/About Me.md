@@ -29,9 +29,21 @@ Work experience
   
 Talks
 ======
-* Title: Spatially and Spectrally Resolved Narrowband Optical Absorber Based on 2D Grating Nanostructures on Metallic Films (Best Poster Award), 2015.10
+* 2017.06, Title: Ultra-thin dynamic thermal emission devices
+  * 3rd International Workshop on Nano-Micro Thermal Radiation, KAIST, Daejeon, Korea
+
+* 2022.03, Title: Resonance for analog recurrent neural network
+  * American Physical Society’s (APS) Meeting 2022, Chicago, USA
+
+* 2018.05, Title: Thermal camouflage based on phase change material GST
+  * Conference on Lasers and Electro-Optics (CLEO) 2018, San Jose, USA
+
+* 2017.06, Title: Ultra-thin dynamic thermal emission devices
+  * 3rd International Workshop on Nano-Micro Thermal Radiation, KAIST, Daejeon, Korea
+
+* 2015.10, Title: Spatially and Spectrally Resolved Narrowband Optical Absorber Based on 2D Grating Nanostructures on Metallic Films (Best Poster Award)
   * 5th Conference on Advances in Optoelectronics and Micro/NanoOptics (AOM) Hangzhou,China
-  
+    
 Teaching
 ======
 * EE2212 Nanophotonics, ShanghaiTech University, 2024 Autumn.
