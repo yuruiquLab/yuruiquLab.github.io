@@ -21,22 +21,22 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yurui Qu"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor at ShanghaiTech University"
+  location         : "Shanghai, China"
+  employer         : "ShanghaiTech University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "quyr@shanghaitech.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=lyrhdC0AAAAJ&hl=zh-CN&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0000-0002-8837-2663"
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Yurui-Qu"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
