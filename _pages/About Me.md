@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Tenure-track Assistant Professor, 2024/01-present
+* Tenure-track Assistant Professor, 2024.01-present
   * School of Information Science and Technology, ShanghaiTech University.
 
 * Scientist, 2022.12 –2023.09
@@ -28,16 +28,20 @@ Work experience
   * Supervisor: Prof. Zongfu Yu
   
 Talks
-
-2015.10 Title: Spatially and Spectrally Resolved Narrowband Optical Absorber Based on 2D Grating Nanostructures o nMetallic Films (Best Poster Award)
+======
+* Title: Spatially and Spectrally Resolved Narrowband Optical Absorber Based on 2D Grating Nanostructures on Metallic Films (Best Poster Award), 2015.10
   * 5th Conference on Advances in Optoelectronics and Micro/NanoOptics (AOM) Hangzhou,China
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* EE2212 Nanophotonics, ShanghaiTech University, 2024 Autumn.
   
-Service and leadership
+Activities
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * Nature Communications
+  * Optica
+  * ACS Photonics
+  * Optics Letters
+  * Optics Express
+  * Optics Materials Express
