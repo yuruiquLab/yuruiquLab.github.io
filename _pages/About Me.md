@@ -27,12 +27,10 @@ Work experience
   * Electrical and Computer Engineering, University of Wisconsin-Madison, USA
   * Supervisor: Prof. Zongfu Yu
   
-  
 Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+2015.10 Title: Spatially and Spectrally Resolved Narrowband Optical Absorber Based on 2D Grating Nanostructures o nMetallic Films (Best Poster Award)
+  * 5th Conference on Advances in Optoelectronics and Micro/NanoOptics (AOM) Hangzhou,China
   
 Teaching
 ======
