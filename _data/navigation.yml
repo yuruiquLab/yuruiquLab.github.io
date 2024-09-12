@@ -10,8 +10,8 @@ main:
   - title: "Group"
     url: /Group/
 
-  - title: "News"
-    url: /News/
+#  - title: "News"
+#    url: /News/
 
 #  - title: "Talks"
 #    url: /talks/    
