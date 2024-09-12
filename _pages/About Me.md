@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/a59b7fa7-5f83-4129-a88a-104d8e5b7b31)---
 layout: archive
 # title: "About Me"
 permalink: /About Me/
@@ -29,6 +29,15 @@ Work experience
   
 Talks
 ======
+* 2024.06, Title: Inverse design of optical computing devices (Invited talk)
+  * IFFS Conference on Integrated Photonics 2024, Chengdu, China
+
+* 2024.05, Title: Inverse design of photonics and optical computing devices (Invited talk)
+  * The 1st International Conference on Optoelectronic Integration (COINT) 2024, Hangzhou, China
+
+* 2024.04, Title: Inverse design and optical neural network (Invited talk)
+  * Photonics & Electromagnetics Research Symposium (PIERS) 2024, Chengdu, China
+    
 * 2023.07, Title: Sparsity for ultrafast material identification (Invited talk)
   * Opt oElectronics and Communications Conference (OECC) 2023, Shanghai, China
 
