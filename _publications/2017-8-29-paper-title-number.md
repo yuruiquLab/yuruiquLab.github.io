@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Thermal Emission Control Based on Ultrathin Plasmonic Metamaterials Including Phase-Changing Material GST (ESI Highly Cited Paper)"
 collection: publications
-permalink: /publication/2017-8-29-paper-title-number-3
+permalink: /publication/2017-8-29-paper-title-number
 excerpt: ' In this paper, an ultrathin (∼0.023λ, λ is the emission peak wavelength) metal-insulator-metal plasmonic metamaterial-based zero-static-power mid-infrared thermal emitter incorporating phase-changing material GST is experimentally demonstrated to dynamically control the thermal emission.'
 date: 2017-8-29
 venue: 'Laser & Photonics Reviews'
