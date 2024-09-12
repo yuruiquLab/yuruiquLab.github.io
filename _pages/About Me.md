@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Zhejiang University, China, 2014.09 –2019.06
-* Visiting Scholar, MIT, USA, 2017.10–2018.10
+* Ph.D, Zhejiang University, China, 2014.09 –2019.06 (Supervisor: Prof. Min Qiu)
+* Visiting Scholar, MIT, USA, 2017.10–2018.10 (Supervisor: Prof. Marin Soljacic)
 * B.S., Zhejiang University, China, 2010.09 –2014.06
 
 Work experience
@@ -21,27 +21,12 @@ Work experience
   * School of Information Science and Technology, ShanghaiTech University.
 
 * Scientist, 2022.12 –2023.09
-  * ElectricalandComputerEngineering, University of Wisconsin-Madison, USA
+  * Electrical and Computer Engineering, University of Wisconsin-Madison, USA
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Fellow, 2019.12 –2022.12
+  * Electrical and Computer Engineering, University of Wisconsin-Madison, USA
+  * Supervisor: Prof. Zongfu Yu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
