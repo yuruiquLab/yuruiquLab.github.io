@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Master Students
 ======
-* Tenure-track Assistant Professor, 2024.01-present
-  * School of Information Science and Technology, ShanghaiTech University.
+* Guangyu Bai (2024 Fall - present): B.S. at China university of mining and technology (中国矿业大学).
 
 * Scientist, 2022.12 –2023.09
   * Electrical and Computer Engineering, University of Wisconsin-Madison, USA
