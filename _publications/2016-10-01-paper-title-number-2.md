@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "Spatially and Spectrally Resolved Narrowband Optical Absorber Based on 2D Grating Nanostructures on Metallic Films"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2016-10-01-paper-title-number-2
 excerpt: 'We propose a narrowband plasmonic absorber with high Q-factor (~100).'
 date: 2016-1-16
 venue: 'Advanced Optical Materials'
