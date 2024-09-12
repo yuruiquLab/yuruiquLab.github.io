@@ -11,20 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Zhejiang University, China, 2014.09 –2019.06
-* B.S. in Zhejiang University, China, 2010.09 –2014.06
+* Ph.D, Zhejiang University, China, 2014.09 –2019.06
+* Visiting Scholar, MIT, USA, 2017.10–2018.10
+* B.S., Zhejiang University, China, 2010.09 –2014.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Tenure-track Assistant Professor, 2024/01-present
+  * School of Information Science and Technology, ShanghaiTech University.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Scientist, 2022.12 –2023.09
+  * ElectricalandComputerEngineering, University of Wisconsin-Madison, USA
 
 * Summer 2015: Research Assistant
   * Github University
