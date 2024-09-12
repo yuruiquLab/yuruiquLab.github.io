@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a59b7fa7-5f83-4129-a88a-104d8e5b7b31)---
+---
 layout: archive
 # title: "About Me"
 permalink: /About Me/
